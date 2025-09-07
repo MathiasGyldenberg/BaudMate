@@ -1,0 +1,81 @@
+# Visual Studio build files
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+*.tlog
+*.vs
+*.vspscc
+*.vssscc
+*.user
+*.suo
+*.sln.docstates
+*.pdb
+*.cache
+*.dbmdl
+*.dbproj.schemaview
+*.pidb
+*.svclog
+*.sdf
+*.opensdf
+*.v12.suo
+*.psess
+*.vspx
+*.vsix
+*.docstates
+*.ncb
+*.sbr
+*.scc
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Build results
+*.dll
+*.app
+*.lib
+*.x86
+*.x64
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Publish output
+publish/
+out/
+
+# User-specific files
+*.swp
+*.bak
+*.tmp
+*.orig
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider IDE files
+.idea/
+*.sln.iml
+
+# Dotnet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Others
+*.vs/
+*.vscode/
+*.resharper/
+_ReSharper*/
+*.DotSettings.user
