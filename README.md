@@ -30,9 +30,9 @@ BaudMate is a modern Windows terminal application for serial (COM) port communic
 2. **Build:**
    - Open the solution in Visual Studio 2022.
    - Build the project (`Ctrl+Shift+B`).
-   - Run (`F5`) or publish using Visual Studio’s __Publish__ feature.
+   - Run (`F5`) or publish using Visual Studioï¿½s __Publish__ feature.
 
-   - Alternatively, download the latest release .exe from the [GitHub Releases] page.
+   - Alternatively, download the latest release .exe from the folder (https://github.com/MathiasGyldenberg/BaudMate/tree/main/Release).
 
 ## Usage
 
